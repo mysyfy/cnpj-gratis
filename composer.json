@@ -11,8 +11,6 @@
     ],
     "require": {
         "php": ">=5.5",
-        "symfony/dom-crawler": "^3.2",
-        "symfony/css-selector": "^3.2",
         "ext-gd":"*",
         "ext-curl":"*",
         "jansenfelipe/utils": "^2.0"
